@@ -1,0 +1,18 @@
+{
+    "root": ".",
+    "title": "Cuphead Lezi Mod 用户手册",
+    "author": "2383130098",
+    "language": "zh-hans",
+    "variables": {
+        "assets": {
+            "base": "/assets/",
+            "images": "/assets/images/"
+        }
+    },
+    "links" : {
+        "sidebar" : {
+            "Github 仓库": "https://github.com/ilovecplusplus97/CupheadLeziMod",
+            "Bilibili 账号": "https://space.bilibili.com/404667869"
+        }
+    }
+}
