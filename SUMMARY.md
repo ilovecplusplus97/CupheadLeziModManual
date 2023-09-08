@@ -7,6 +7,7 @@
     * [蔬菜三兄弟](boss/蔬菜三兄弟.md)
     * [伟大的古比](boss/伟大的古比.md)
     * [陵墓3](boss/陵墓3.md)
+    * [陵墓2](boss/陵墓2.md)
 * [武器](weapon/INDEX.md)
     * [豆子枪](weapon/豆子枪.md)
     * [回旋弹](weapon/回旋弹.md)
