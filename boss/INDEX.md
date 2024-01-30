@@ -1,5 +1,5 @@
 # BOSS
-本章主要讲解Cuphead Lezi Mod对于BOSS的修改
+本章主要讲解Cuphead Lezi Mod对于BOSS的修改（即关卡中的专家模式）
 ## v1.0.0
 1. [蔬菜三兄弟](./蔬菜三兄弟.md)
 2. [伟大的古比](./伟大的古比.md)
